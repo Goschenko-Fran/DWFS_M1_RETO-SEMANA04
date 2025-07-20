@@ -8,7 +8,8 @@ Algoritmo LeerVariosNombres
     Escribir "Hola ", nombre, ", ¡bienvenido!, lo lograste "
 	
 	// CONTINUA LA SECUENCIA DE LOS NUMERO Y DEJA TU NOMBRE SIN BORRAR EL DE LOS DEMAS
-	Escribir  " 01 Francisco Goschenko act. 19-07 14:18pm"
+	Escribir "01 Francisco Goschenko act. 19-07 14:18pm"
+	Escribir "02 Francis Luis Gedoz act. 20-07 18:58pm"
 	
 	// Deja tu capture en la carperta de imagenes en github, conle mismo numero y nombre de la lista del algoritmo
 	
