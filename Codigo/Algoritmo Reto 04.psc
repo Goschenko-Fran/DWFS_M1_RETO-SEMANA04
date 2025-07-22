@@ -1,3 +1,4 @@
+
 Algoritmo LeerVariosNombres
 	
 	Definir nombre Como Cadena
@@ -11,7 +12,7 @@ Algoritmo LeerVariosNombres
 	Escribir "01 Francisco Goschenko act. 19-07 14:18pm"
 	Escribir "02 Francis Luis Gedoz act. 20-07 18:58pm"
 	Escribir "03 Antonia Escudero act. 21.07 19:55"
-	
+	Escribir "04 Marcos Espinoza act. 21.07 23:30"
 	// Deja tu capture en la carperta de imagenes en github, conle mismo numero y nombre de la lista del algoritmo
 	
 FinAlgoritmo
