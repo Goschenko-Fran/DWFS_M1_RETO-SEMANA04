@@ -15,6 +15,7 @@ Algoritmo LeerVariosNombres
 	Escribir "04 Marcos Espinoza act. 21.07 23:30"
 	Escribir "05 Felipe Monterrey act 22-07 16:27pm"
 	Escribir "06 Jose Esteban act. 19:10pm"
+	Escribir "07 Luis Barraza act. 26-07 15:27"
 	// Deja tu capture en la carperta de imagenes en github, conle mismo numero y nombre de la lista del algoritmo
 	
 
